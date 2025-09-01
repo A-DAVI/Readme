@@ -44,9 +44,6 @@
 ## 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviCassoli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCassoli&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-DAVI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00000000&bg_color=0D1117&text_color=00BFFF&icon_color=00BFFF" alt="Estatísticas do GitHub de Davi"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-DAVI&layout=compact&langs_count=7&theme=tokyonight&border_color=00000000&bg_color=0D1117" alt="Linguagens mais usadas por Davi"/>
 </p>
