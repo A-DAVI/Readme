@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iMjAwIiB2aWV3Qm9wPSIwIDAgOTAwIDIwMCIgZmlsbD0ibm9uZSI+CiAgPHN0eWxlPgogICAgLmJnP2ZpbGw6ICNmNmY4ZmE7IH0KICAgIC50aXRsZTogeyBmb250LWZhbWlseTogJ1NlZ29lIFVJLCBTYW5zLVNlcmlmOyBmb250LXdlaWdodDogYm9sZDsgZm9udC1zaXplOiA2MHB4OyBmaWxsOiAjMjQyOTJlOyB9CiAgICAuc3VidGl0bGUgeyBmb250LWZhbWlseTogJ1NlZ29lIFVJLCBTYW5zLVNlcmlmOyBmb250LXdlaWdodDogbm9ybWFsOyBmb250LXNpemU6IDI0cHg7IGZpbGw6ICMwMzY2ZDY7IH0KICAgIC5saW5lIHsgc3Ryb2tlOiAjMDM2NmQ2OyBzdHJva2Utd2lkdGg6IDI7IHN0cm9rZS1kYXNoYXJyYXk6IDEwMDA7IHN0cm9rZS1kYXNob2Zmc2V0OiAxMDAwOyBhbmltYXRpb246IGRyYXcgNHMgbGluZWFyIGZvcndhcmRzOyB9CiAgICBAa2V5ZnJhbWVzIGRyYXcgeyB0byB7IHN0cm9rZS1kYXNob2Zmc2V0OiAwOyB9IH0KICA8L3N0eWxlPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMjAwIiBjbGFzcz0iYmciLz4KICA8dGV4dCB4PSI1MCUiIHk9IjQ1JSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9InRpdGxlIj5EQVZJIENBU1NPTEk8L3RleHQ+CiAgPHRleHQgeD0iNTAlIiB5PSI3MCUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGNsYXNzPSJzdWJ0aXRsZSI+QXJxdWl0ZXRvIGRlIEF1dG9tYcOnw6NvICYgRGVzZW52b2x2ZWRvciBQeXRob248L3RleHQ+CiAgPHBhdGggZD0iTTIyNSA4MEg2NzUiIGNsYXNzPSJsaW5lIi8+Cjwvc3ZnPg==" alt="Cabeçalho de Davi Cassoli"/>
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iMjAwIiB2aWV3Qm9wPSIwIDAgOTAwIDIwMCIgZmlsbD0ibm9uZSI+CiAgPHN0eWxlPgogICAgLmJnP2ZpbGw6ICNmNmY4ZmE7IH0KICAgIC50aXRsZTogeyBmb250LWZhbWlseTogJ1NlZ29lIFVJLCBTYW5zLVNlcmlmOyBmb250LXdlaWdodDogYm9sZDsgZm9udC1zaXplOiA2MHB4OyBmaWxsOiAjMjQyOTJlOyB9CiAgICAuc3VidGl0bGUgeyBmb250LWZhbWlseTogJ1NlZ29lIFVJLCBTYW5zLVNlcmlmOyBmb250LXdlaWdodDogbm9ybWFsOyBmb250LXNpemU6IDI0cHg7IGZpbGw6ICMwMzY2ZDY7IH0KICAgIC5saW5lIHsgc3Ryb2tlOiAjMDM2NmQ2OyBzdHJva2Utd2lkdGg6IDI7IHN0cm9rZS1kYXNoYXJyYXk6IDEwMDA7IHN0cm9rZS1kYXNob2Zmc2V0OiAxMDAwOyBhbmltYXRpb246IGRyYXcgNHMgbGluZWFyIGZvcndhcmRzOyB9CiAgICBAa2V5ZnJhbWVzIGRyYXcgeyB0byB7IHN0cm9rZS1kYXNob2Zmc2V0OiAwOyB9IH0KICA8L3N0eWxlPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMjAwIiBjbGFzcz0iYmciLz4KICA8dGV4dCB4PSI1MCUiIHk9IjQ1JSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhczoi dGl0bGUiPkRBVkkgQ0FTU09MSTwvdGV4dD4KICA8dGV4dCB4PSI1MCUiIHk9IjcwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9InN1YnRpdGxlIj5BcnF1aXRldG8gZGUgQXV0b21hw6fDo28gJiBEZXNlbnZvbHZlZG9yIFB5dGhvbjwvdGV4dD4KICA8cGF0aCBkPSJNMjI1IDgwSDY3NSIgY2xhc3M9ImxpbmUiLz4KPC9zdmc+Cg==" alt="Cabeçalho de Davi Cassoli"/>
 </p>
 
 <p align="center">
@@ -9,33 +9,26 @@
 <br>
 
 <table width="100%">
-  <tr>
+  <tr width="100%">
     <td valign="top" width="65%">
-
-### 🎯 O Que Eu Faço
-
-<p>
-  <strong>Automação de Processos (RPA & IA):</strong> Crio fluxos de trabalho inteligentes com <strong>Make.com</strong>, <strong>N8N</strong> e <strong>IA Generativa</strong> para automatizar tarefas repetitivas, gerar documentos e otimizar a produtividade da equipe.
-</p>
-
-<p>
-  <strong>Desenvolvimento Back-End:</strong> Arquiteto e desenvolvo aplicações escaláveis com <strong>Python</strong> e <strong>Flask</strong>, seguindo padrões de projeto como <strong>MVC</strong> para garantir um código limpo e de fácil manutenção.
-</p>
-
-<p>
-  <strong>Design de UI/UX e Prototipagem:</strong> Utilizo o <strong>Figma</strong> para desenhar interfaces intuitivas e modernas, garantindo que a experiência do usuário final seja tão boa quanto a performance do sistema.
-</p>
-
+      <h3>🎯 O Que Eu Faço</h3>
+      <p>
+        <strong>Automação de Processos (RPA & IA):</strong> Crio fluxos de trabalho inteligentes com <strong>Make.com</strong>, <strong>N8N</strong> e <strong>IA Generativa</strong> para automatizar tarefas repetitivas, gerar documentos e otimizar a produtividade da equipe.
+      </p>
+      <p>
+        <strong>Desenvolvimento Back-End:</strong> Arquiteto e desenvolvo aplicações escaláveis com <strong>Python</strong> e <strong>Flask</strong>, seguindo padrões de projeto como <strong>MVC</strong> para garantir um código limpo e de fácil manutenção.
+      </p>
+      <p>
+        <strong>Design de UI/UX e Prototipagem:</strong> Utilizo o <strong>Figma</strong> para desenhar interfaces intuitivas e modernas, garantindo que a experiência do usuário final seja tão boa quanto a performance do sistema.
+      </p>
     </td>
     <td valign="top" width="35%">
-
-### 📊 Minhas Estatísticas
-      
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=A-DAVI&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=e1e4e8&bg_color=f6f8fa&title_color=0366d6&text_color=24292e&icon_color=0366d6" alt="Estatísticas do GitHub de Davi"/>
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-DAVI&layout=compact&langs_count=7&theme=default&border_color=e1e4e8&bg_color=f6f8fa" alt="Linguagens mais usadas por Davi"/>
-</p>
+      <h3>📊 Minhas Estatísticas</h3>
+      <p align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=A-DAVI&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=e1e4e8&bg_color=f6f8fa&title_color=0366d6&text_color=24292e&icon_color=0366d6" alt="Estatísticas do GitHub de Davi"/>
+        <br>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-DAVI&layout=compact&langs_count=7&theme=default&border_color=e1e4e8&bg_color=f6f8fa" alt="Linguagens mais usadas por Davi"/>
+      </p>
     </td>
   </tr>
 </table>
@@ -62,3 +55,7 @@
 ### 🔗 Conecte-se Comigo
 
 <p align="center">
+  <a href="https://linkedin.com/in/SEU_USUARIO_LINKEDIN" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
